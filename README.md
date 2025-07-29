@@ -82,3 +82,20 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
+```
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork the repo and submit a pull request.
+
+If you liked this project, a ⭐️ would mean a lot!
+
+
+## 👤 Author
+
+**Ankit Kumar**
+
+- GitHub: [@Ankit2729](https://github.com/Ankit2729)
+
+
