@@ -63,11 +63,14 @@ The app uses the following 13 features from the [Cleveland Heart Disease dataset
 ## 📸 Screenshot
 
 ![App Screenshot](s_lit.png) 
+
 ### 📊 Prediction Output
+
 ![Prediction Result](s_lit2.png)
 
 ### 📤 CSV Export
 ![Export Button](s_lit4.png)
+
 ---
 
 ## 🛠 Setup & Run Locally
