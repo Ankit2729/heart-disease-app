@@ -1,8 +1,9 @@
 # ❤️ Heart Disease Prediction App
 
 A simple and interactive web app that predicts whether a person is at **high or low risk** of heart disease based on medical parameters, using a Machine Learning model built in Python.
+## 🚀 Live Demo
 
-[Click here to try the app](https://heart-disease-app-9tjbz6xoedfgzqbrjaekgs.streamlit.app/) <!-- 🔁 Replace with actual app URL -->
+Experience the app live 👉 [Heart Disease Risk Predictor](https://heart-disease-app-9tjbz6xoedfgzqbrjaekgs.streamlit.app/)
 
 ---
 
