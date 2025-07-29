@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff69b4.svg)
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
+
+
 # ❤️ Heart Disease Prediction App
 
 A simple and interactive web app that predicts whether a person is at **high or low risk** of heart disease based on medical parameters, using a Machine Learning model built in Python.
