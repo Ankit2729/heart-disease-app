@@ -5,6 +5,14 @@ A simple and interactive web app that predicts whether a person is at **high or 
 
 Experience the app live 👉 [Heart Disease Risk Predictor](https://heart-disease-app-9tjbz6xoedfgzqbrjaekgs.streamlit.app/)
 
+### 🧪 Sample Test Case
+
+**high-risk** prediction:
+58, 1, 2, 140, 211, 0, 1, 100, 1, 2.6, 2, 1, 2
+
+**low-risk** prediction:
+41, 0, 0, 120, 157, 0, 1, 182, 0, 0.0, 1, 0, 0
+
 ---
 
 ## 🚀 Features
