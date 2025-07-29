@@ -2,7 +2,7 @@
 
 A simple and interactive web app that predicts whether a person is at **high or low risk** of heart disease based on medical parameters, using a Machine Learning model built in Python.
 
-[Click here to try the app](https://967b70751a52.ngrok-free.app/) <!-- 🔁 Replace with actual app URL -->
+[Click here to try the app](https://heart-disease-app-9tjbz6xoedfgzqbrjaekgs.streamlit.app/) <!-- 🔁 Replace with actual app URL -->
 
 ---
 
