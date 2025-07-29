@@ -54,7 +54,7 @@ The app uses the following 13 features from the [Cleveland Heart Disease dataset
 
 ## 🤖 Model Details
 
-- 📚 Algorithm: Logistic Regression (or your actual model)
+- 📚 Algorithm: Trained Logistic Regression model (built via scikit-learn)
 - 🧠 Trained on: `processed.cleveland.data`
 - 🛠 Libraries used: `scikit-learn`, `pandas`, `numpy`, `joblib`
 
